@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krishna-Online-Book/static/css/main.b094673b.css",
+    "main.js": "/krishna-Online-Book/static/js/main.ddc669ff.js",
+    "static/js/488.31070706.chunk.js": "/krishna-Online-Book/static/js/488.31070706.chunk.js",
+    "index.html": "/krishna-Online-Book/index.html",
+    "main.b094673b.css.map": "/krishna-Online-Book/static/css/main.b094673b.css.map",
+    "main.ddc669ff.js.map": "/krishna-Online-Book/static/js/main.ddc669ff.js.map",
+    "488.31070706.chunk.js.map": "/krishna-Online-Book/static/js/488.31070706.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b094673b.css",
+    "static/js/main.ddc669ff.js"
+  ]
+}
